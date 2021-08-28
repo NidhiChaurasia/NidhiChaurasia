@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhichaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="nidhichaurasia" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://womenyoushouldknow.net/wp-content/uploads/2012/08/iStock_000006601993XSmall-e13442162471231-1.jpg">
+<img align="center" alt="Coding" width="1000" src="https://www.quotemaster.org/images/98/98ed51a1395bed13896b2200f50dfd53.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidhichaurasia" alt="nidhichaurasia" /></a> </p>
 
@@ -16,6 +16,9 @@
 - 👯 I’m looking to collaborate on **AI/ML and Data Science Projects**
 
 - 🤝 I’m looking for help with **API and Cloud-based Project**
+
+
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/449e5484331063.5d59d676371f9.jpg">
 
 - 👨‍💻 All of my blogs are available at [http://ambitioustweedycharm.home.blog/](http://ambitioustweedycharm.home.blog/)
 
